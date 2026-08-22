@@ -13,7 +13,7 @@ Comprendre les mécanismes de :
 
 ```bash
 # Cloner le repository
-git clone https://github.com/hiddenworld/HACKER_TCHAD_SPLOITE.git
+git clone https://github.com/hackerstchad1/HACKER_TCHAD_SPLOITE.git
 
 # Installer les dépendances
 pip install -r requirements_sploite.txt
@@ -88,14 +88,11 @@ Chaque module inclut :
 
 ## 🤝 Communauté
 
-**HiddenWorld Communauté Tchadienne**
-- Discord : [Lien]
-- Telegram : [Lien]
-- GitHub : [Lien]
+Hidden_World
 
 ## 📜 Licence
 
-MIT License - Usage éducatif uniquement
+MIT License - Usage sploit
 
 ---
 
