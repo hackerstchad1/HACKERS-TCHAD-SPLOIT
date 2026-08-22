@@ -1,10 +1,7 @@
 # HACKER_TCHAD_SPLOITE
 
-**Développé par HiddenWorld Communauté Tchadienne**
+<img width="1248" height="832" alt="OIG2 pSr" src="https://github.com/user-attachments/assets/54448531-70e9-4382-a716-8767b711a44c" />
 
-Un framework éducatif complet pour comprendre et pratiquer la cybersécurité offensive de manière éthique et légale. Ce script est conçu comme un simulateur pédagogique qui reproduit les concepts et workflows de Metasploit Framework dans un environnement contrôlé.
-
-## 🎯 Objectif
 
 Comprendre les mécanismes de :
 - Reconnaissance et scan de réseaux
@@ -13,27 +10,6 @@ Comprendre les mécanismes de :
 - Élévation de privilèges
 - Création de payloads
 - Techniques d'évasion
-
-## ⚠️ Avertissement Légal
-
-**Ce script est STRICTEMENT réservé à un usage éducatif et éthique :**
-- ✅ Apprentissage de la cybersécurité dans un labo personnel
-- ✅ Préparation aux certifications (OSCP, CEH, eJPT)
-- ✅ Tests de pénétration autorisés par écrit
-- ✅ CTF (Capture The Flag) et challenges légaux
-
-**INTERDICTIONS ABSOLUES :**
-- ❌ Utiliser sur des systèmes sans autorisation explicite
-- ❌ Toute activité malveillante ou criminelle
-- ❌ Attaquer des infrastructures publiques ou privées sans accord
-
-## 📋 Prérequis
-
-- Python 3.8+
-- Linux recommandé (Kali Linux, Parrot OS)
-- Droits root pour certaines fonctionnalités
-
-## 🚀 Installation
 
 ```bash
 # Cloner le repository
